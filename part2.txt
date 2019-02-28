@@ -3,6 +3,7 @@
 <fileDesc>
             <titleStmt>
                <title>РОССИАДА</title>
+	       <author>Михаил Херасков</author>
             </titleStmt>
             <respStmt>
                 <persName>Алёна Лыткина</persName>
