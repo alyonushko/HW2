@@ -3,6 +3,7 @@
         <fileDesc>
             <titleStmt>
                <title>Кавказские повести</title>
+	       <author>Александр Бестужев-Марлинский</author>
             </titleStmt>
             <respStmt>
                 <persName>Алёна Лыткина</persName>
